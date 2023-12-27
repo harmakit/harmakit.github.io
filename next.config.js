@@ -4,12 +4,12 @@
  * @type {import('next').NextConfig}
  **/
 const nextConfig = {
-  distDir: "out",
+  // distDir: "out",
   output: "export",
-  basePath: "/harmakit.github.io",
-  images: {
-    unoptimized: true,
-  },
+  // basePath: "/harmakit.github.io",
+  // images: {
+  //   unoptimized: true,
+  // },
 };
 
 module.exports = nextConfig;
