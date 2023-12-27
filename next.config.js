@@ -5,7 +5,6 @@
  **/
 const nextConfig = {
   output: "export",
-  basePath: "/harmakit.github.io",
   images: {
     unoptimized: true,
   },
