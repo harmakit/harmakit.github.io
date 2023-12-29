@@ -5,17 +5,11 @@
   "ascii": "hi!",
   "social": {
     "github": "harmakit",
-    "linkedin": "pavelbuev/"
+    "linkedin": "pavelbuev"
   },
   "email": "pavel.d3v@gmail.com",
   "ps1_hostname": "terminal",
   "ps1_username": "guest",
-  "repo": "",
-  "resume_url": "",
-  "donate_urls": {
-    "paypal": "",
-    "patreon": ""
-  },
   "colors": {
     "light": {
       "background": "#FBF1C9",
