@@ -39,6 +39,19 @@ const IndexPage: React.FC<IndexPageProps> = ({ inputRef }) => {
     <>
       <Head>
         <title>{config.title}</title>
+        <link rel="icon" href="/icon/favicon.ico" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta name="theme-color" content="#000000" />
+        <meta name="description" content="greetings, web traveler. welcome to my corner of the internet." />
+        <meta name="keywords" content="harmakit, developer, web development, projects, skills" />
+        <meta name="author" content="harmakit" />
+        <meta name="robots" content="index, follow" />
+        <meta name="og:title" content="harmakit" />
+        <meta name="og:description" content="greetings, web traveler. welcome to my corner of the internet." />
+        <meta name="og:image" content="/icon/android-chrome-192x192.png" />
+        <meta name="og:type" content="website" />
+        <link rel="apple-touch-icon" href="/icon/apple-touch-icon.png" />
+        <link rel="manifest" href="/manifest.json" />
       </Head>
 
       <div className="p-8 overflow-hidden h-full border-2 rounded border-light-yellow dark:border-dark-yellow">
